@@ -1,0 +1,5 @@
+package lab2.Problem2;
+public class Position {
+    public int x, y;
+    public Position(int x, int y) { this.x = x; this.y = y; }
+}
